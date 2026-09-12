@@ -9,6 +9,9 @@ Please note that the crystal for the `GD32F107Rx`, `GD32F207Rx` and the `GD32F40
 
 The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi boards. 
 
+Note: The BOM is for the GD32F407RE.
+ToDo: Add information for other supported MCU's.
+
 Details -> [https://www.gd32-dmx.org/dev-board.html](https://www.gd32-dmx.org/dev-board.html)
 
 ![](https://github.com/vanvught/KiCad-GD32FxxxRx-no-PHY/blob/main/3d.png)
